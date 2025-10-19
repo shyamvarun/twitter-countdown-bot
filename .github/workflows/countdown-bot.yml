@@ -2,7 +2,7 @@ name: Run bot
 
 on:
   schedule:
-    - cron: '27 18 * * *'  # runs daily at 18:27 UTC
+    - cron: '35 13 * * *'  # runs daily at 18:27 UTC
   workflow_dispatch:
 
 jobs:
