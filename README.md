@@ -6,7 +6,5 @@ A simple Python Twitter bot (@bday__countdown) that tweets the countdown (days r
 - Posts the number of days remaining to a specified date.
 - Uses Tweepy Python library with Twitter API v2.
 - Reads API credentials securely from a `.env` file.
-- Deployable on PythonAnywhere with scheduled daily runs.
-
 
 
